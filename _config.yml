@@ -2,16 +2,15 @@
 title: The résumé of Josha Ho
 author:
   address:
-      street: 2932 Evergreen St
-      town: Abbotsford
-      postcode: V2T 2S4
+      town: Saskatoon, SK
+      postcode: S7K 3B1
       country: Canada
   email: josha@joshaho.com
   name: Josha Ho
   title: Master's Student at University of Saskatchewan
-  twitter_username: hojosha
+  # twitter_username: hojosha
   github_username:  joshaho
-  phone: 13603127202
+  phone: 1(360) 312-7202
   repository: https://github.com/nternetinspired/jekyll-resume
   website: http://www.joshaho.com
 description: > # this means to ignore newlines until "baseurl:"
